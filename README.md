@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @faruk99genc
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning front end web development
+- 📫 If you want to reach me "faruk123gnc@gmail.com"
